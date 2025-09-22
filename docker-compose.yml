@@ -1,5 +1,5 @@
 services:
-  your_service:
-    image: docker
-    ports:
-      - "3001:3000"
+    your_service:
+        image: docker
+        ports:
+            - '3001:3000'
